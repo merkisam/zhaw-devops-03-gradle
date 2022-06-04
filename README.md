@@ -1,2 +1,2 @@
 # zhaw-devops-03-gradle
-Grade Example Project DevOps Lesson 3
+Grade Example Project DevOps Build Tools Lesson 3
